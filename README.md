@@ -53,3 +53,13 @@ Soy estudiante de Ingeniería en Sistemas (9no semestre) próximo a titularme. M
   <img src="https://github-readme-stats.vercel.app/api?username=MiguelCs03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCs03&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
+<br/>
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelCs03/MiguelCs03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelCs03/MiguelCs03/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MiguelCs03/MiguelCs03/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
