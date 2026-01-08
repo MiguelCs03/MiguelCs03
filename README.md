@@ -6,7 +6,7 @@
 
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Frontend+%7C+Backend+%7C+Mobile;IA+y+Machine+Learning+Aplicado;Ingenier%C3%ADa+de+Sistemas+UAGRM" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack;Frontend+%7C+Backend+%7C+Mobile;IA+Aplicada+y+Machine+Learning;Ingenier%C3%ADa+de+Sistemas+UAGRM" 
       alt="Typing SVG" 
     />
   </a>
@@ -17,13 +17,14 @@
 ## 🚀 Sobre mí
 
 Soy **estudiante de Ingeniería en Sistemas (9no semestre)**, próximo a titularme.  
-Me especializo en construir **soluciones completas de extremo a extremo**, integrando frontend, backend, bases de datos, aplicaciones móviles y **componentes de Inteligencia Artificial**.
+Me especializo en el desarrollo de **soluciones completas de extremo a extremo**, integrando frontend, backend, bases de datos, aplicaciones móviles y **servicios de Inteligencia Artificial**.
 
-Me enfoco en proyectos **prácticos y escalables**, aplicando buenas prácticas, arquitectura limpia y pensamiento analítico.
+Tengo experiencia aplicando **IA de forma práctica**, integrándola en sistemas reales mediante **APIs de modelos de lenguaje y análisis de datos**.
 
 - 🔭 Actualmente trabajando en: **Sistemas de Punto de Venta, Dashboards y aplicaciones empresariales**
 - 🌱 Aprendiendo y aplicando: **Microservicios, Data Warehousing, IA y Machine Learning**
-- 🤖 Experiencia en: **Modelos predictivos, análisis de datos y automatización inteligente**
+- 🤖 IA aplicada con: **OpenAI API, Gemini API y Groq API**
+- 🧠 Uso de IA para: **automatización, chatbots, análisis de datos, asistentes inteligentes y procesamiento de texto**
 - 💼 Experiencia: **Pasante y Freelance** con Laravel, Vue, Flutter y Python
 
 ---
@@ -53,8 +54,12 @@ Me enfoco en proyectos **prácticos y escalables**, aplicando buenas prácticas,
 
   <br/><br/>
 
-  <p><strong>🤖 IA & Data</strong></p>
+  <p><strong>🤖 IA & Machine Learning</strong></p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy&perline=5" />
+  <br/>
+  <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_API-FF4F00?style=for-the-badge&logo=lightning&logoColor=white" />
 
   <br/><br/>
 
@@ -64,17 +69,7 @@ Me enfoco en proyectos **prácticos y escalables**, aplicando buenas prácticas,
 
 ---
 
-<div align="center">
-  <h3>📊 Estadísticas de GitHub</h3>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MiguelCs03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCs03&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" 
-    height="165"
-  />
-</div>
+
 
 <br/>
 
