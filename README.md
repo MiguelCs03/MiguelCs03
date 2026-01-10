@@ -6,7 +6,7 @@
 
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Frontend+%7C+Backend+%7C+Mobile;IA+Aplicada+y+Machine+Learning;Sistemas+Escalables+y+APIs+Inteligentes" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Frontend+%7C+Backend+%7C+Mobile;IA+Aplicada+y+Machine+Learning;Cloud+%7C+AWS+%7C+Azure+%7C+Linux" 
       alt="Typing SVG" 
     />
   </a>
@@ -21,12 +21,12 @@ Desarrollador **Full Stack** con experiencia en la construcción de **aplicacion
 Trabajo en soluciones **end-to-end**, desde el diseño de la arquitectura hasta la implementación, despliegue y consumo de APIs. He aplicado **IA de forma práctica** en proyectos reales, enfocándome en automatización, análisis de datos y asistentes inteligentes.
 
 - 🔭 Desarrollo de **Sistemas de Punto de Venta, dashboards y aplicaciones empresariales**
+- ☁️ Despliegue y administración de servidores en **AWS, Azure y entornos Linux**
 - 🧠 Integración de **IA y Machine Learning** en productos reales
 - 🤖 Trabajo con **OpenAI API, Gemini API y Groq API**
 - ⚙️ Diseño y consumo de **APIs REST**
 - 🧪 Testing y documentación con **Postman**
 - 💻 Flujo de trabajo profesional con **Git, GitHub y VS Code**
-- 💼 Experiencia en proyectos **Freelance y académicos de nivel profesional**
 
 ---
 
@@ -52,6 +52,11 @@ Trabajo en soluciones **end-to-end**, desde el diseño de la arquitectura hasta 
 
   <p><strong>⚙️ Backend & APIs</strong></p>
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,python,php&perline=5" />
+
+  <br/><br/>
+
+  <p><strong>☁️ Cloud & Servidores</strong></p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,nginx&perline=5" />
 
   <br/><br/>
 
