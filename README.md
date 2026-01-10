@@ -26,6 +26,7 @@ Trabajo en soluciones **end-to-end**, desde el diseño de la arquitectura hasta 
 - 🤖 Trabajo con **OpenAI API, Gemini API y Groq API**
 - ⚙️ Diseño y consumo de **APIs REST**
 - 🧪 Testing y documentación con **Postman**
+- 🔄 Trabajo colaborativo en **equipos Scrum** (sprints, dailies, planning y retrospectivas)
 - 💻 Flujo de trabajo profesional con **Git, GitHub y VS Code**
 
 ---
