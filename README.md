@@ -3,10 +3,14 @@
     Hola, soy Miguel Angel 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=MiguelCs03&label=Vistas+del+Perfil&color=0e75b6&style=flat" alt="Contador de visualizaciones" />
+  </p>
 
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Frontend+%7C+Backend+%7C+Mobile;IA+Aplicada+y+Machine+Learning;Cloud+%7C+AWS+%7C+Azure+%7C+Linux" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack+%7C+Backend;NestJS+%7C+Laravel+%7C+Vue+%7C+React;Arquitectura+Serverless+%26+Cloud;IA+Aplicada+%7C+Machine+Learning" 
       alt="Typing SVG" 
     />
   </a>
@@ -14,50 +18,46 @@
 
 ---
 
-## 🚀 Perfil Profesional
+## 🚀 Sobre Mí
 
-Desarrollador **Full Stack** con experiencia en la construcción de **aplicaciones web, móviles y sistemas empresariales**, integrando **APIs, bases de datos y servicios de Inteligencia Artificial**.
+Desarrollador de software egresado de Ingeniería en Sistemas, enfocado en crear soluciones tecnológicas escalables y de alto impacto en producción (disponibilidad a tiempo completo). 
 
-Trabajo en soluciones **end-to-end**, desde el diseño de la arquitectura hasta la implementación, despliegue y consumo de APIs. He aplicado **IA de forma práctica** en proyectos reales, enfocándome en automatización, análisis de datos y asistentes inteligentes.
+Mi experiencia abarca el diseño de arquitecturas robustas del lado del servidor, implementaciones **Serverless**, desarrollo de aplicaciones multiplataforma y la integración de modelos de Inteligencia Artificial. Me apasiona resolver problemas complejos de lógica de negocio y optimizar infraestructura.
 
-- 🔭 Desarrollo de **Sistemas de Punto de Venta, dashboards y aplicaciones empresariales**
-- ☁️ Despliegue y administración de servidores en **AWS, Azure y entornos Linux**
-- 🧠 Integración de **IA y Machine Learning** en productos reales
-- 🤖 Trabajo con **OpenAI API, Gemini API y Groq API**
-- ⚙️ Diseño y consumo de **APIs REST**
-- 🧪 Testing y documentación con **Postman**
-- 🔄 Trabajo colaborativo en **equipos Scrum** (sprints, dailies, planning y retrospectivas)
-- 💻 Flujo de trabajo profesional con **Git, GitHub y VS Code**
+- 🔭 **Enfoque actual:** Construcción de sistemas empresariales, APIs RESTful y arquitecturas Serverless.
+- 🧠 **IA & Data:** Implementación de modelos de Machine Learning (Visión Artificial) y consumo de LLMs (OpenAI, Gemini, Groq).
+- ⚙️ **Metodología:** Trabajo colaborativo bajo marcos ágiles (SCRUM) orientados a la entrega de valor y calidad de código.
+- 📫 **Contacto:** [mangelcs2003@gmail.com](mailto:mangelcs2003@gmail.com) | [LinkedIn](https://www.linkedin.com/in/miguel-cesary/)
 
 ---
 
-<div align="center">
-  <h3>📫 Contacto</h3>
-  <a href="https://www.linkedin.com/in/miguel-angel-cesary-sorioco-6723a92b4/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:mangelcs2003@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</div>
+## 💻 Experiencia y Proyectos Destacados
+
+**Proyectos desarrollados durante mi gestión en Intecruz S.R.L.:**
+*   📱 **Círculo Rojo (App Móvil):** Formé parte del equipo de desarrollo y despliegue multiplataforma en App Store y Play Store utilizando **Flutter**. Resolví desafíos técnicos críticos como la configuración de aprovisionamientos en Xcode, sincronización del Bundle ID y manejo de tokens APNS para notificaciones push con Firebase.
+*   🏢 **Sistema MIP (Control de Plagas):** Colaboré en el mantenimiento y refactorización de esta plataforma corporativa. Me enfoqué en la optimización de vistas SQL complejas y migración de bases de datos utilizando el ecosistema **Laravel y Vue 3**.
+
+**Proyectos Académicos y Personales:**
+*   🧘 **Coach Virtual (Sistema de Visión Artificial):** Software de corrección de posturas impulsado por Machine Learning. Realiza el seguimiento de 33 puntos clave (keypoints) del cuerpo en tiempo real y controla un avatar 3D. Construido con **Django y Angular**.
+*   🧾 **Sistema POS con Facturación Electrónica:** Plataforma de Punto de Venta que simula la integración precisa con la API del SIAT boliviano, manejando tokens de seguridad y estructuras de facturación complejas. Desarrollado con **React, Django y PostgreSQL**.
 
 ---
 
 <div align="center">
   <h3>🛠 Stack Tecnológico</h3>
 
+  <p><strong>⚙️ Backend, Cloud & Serverless</strong></p>
+  <img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,express,python,php,aws,firebase&perline=8" />
+
+  <br/><br/>
+
   <p><strong>🎨 Frontend & Mobile</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,ts,bootstrap&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vue,react,angular,flutter,ts,bootstrap&perline=6" />
 
   <br/><br/>
 
-  <p><strong>⚙️ Backend & APIs</strong></p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,python,php&perline=5" />
-
-  <br/><br/>
-
-  <p><strong>☁️ Cloud & Servidores</strong></p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,nginx&perline=5" />
+  <p><strong>🗄️ Bases de Datos & Infraestructura</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,ubuntu,nginx&perline=6" />
 
   <br/><br/>
 
@@ -72,8 +72,8 @@ Trabajo en soluciones **end-to-end**, desde el diseño de la arquitectura hasta 
 
   <br/>
 
-  <p><strong>🗄️ Bases de Datos & Herramientas</strong></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,postman,vscode&perline=6" />
+  <p><strong>🔧 Herramientas de Desarrollo</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" />
 </div>
 
 ---
@@ -81,6 +81,7 @@ Trabajo en soluciones **end-to-end**, desde el diseño de la arquitectura hasta 
 <br/>
 
 <div align="center">
+  <h3>📈 Mis Contribuciones</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://raw.githubusercontent.com/MiguelCs03/MiguelCs03/output/github-contribution-grid-snake-dark.svg">
